@@ -251,3 +251,7 @@
 - **是否支持回锁**: ✅
 - **Linux 内核开源**: [✅](https://opensource.ztedevices.com/)
 - **备注**: 部分新产品不再提供解锁
+- 
+## 金立 (GIONEE) 
+- **Bootloader 解锁**: ❌
+- **Linux 内核开源**: ❌
